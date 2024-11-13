@@ -8,4 +8,4 @@ I am a software engineer in the United States with over 10 years' experience ret
 - ⌨️ I use Git and Docker daily.
 - 🤔 I am curious about learning a new programming language, such as Golang.
 - 👯 I would like to collaborate on open source projects.
-- 📫 I can be reached via ![<img src="https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white">](mailto:joshua.born@gmail.com) or ![<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joshuaborn/).
+- 📫 I can be reached via [<img src="https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white">](mailto:joshua.born@gmail.com) or [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joshuaborn/).
