@@ -5,7 +5,6 @@ I am a software engineer in the United States with over 10 years' experience ret
 - 👨‍💻 _I am currently looking for work._ I am available for a remote role  or for a role in the Northern Virginia area.
 - 🔭 I am currently working on a web app for splitting expenses called [Bentley Needs Money](https://github.com/joshuaborn/bentley-needs-money) and built with Ruby on Rails.
 - 🧾 While I have the most experience with Ruby and Rails, I also have used in a professional setting JavaScript, Python, Java, R, and SAS at various points in my career.
-- 🤔 I am curious about learning a new programming language, such as Golang.
 - 👯 I would like to collaborate on open source projects.
 - 📫 I can be reached via [<img src="https://img.shields.io/badge/Email-gray?logo=gmail&logoColor=white">](mailto:joshua.born@gmail.com) or [<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">](https://www.linkedin.com/in/joshuaborn/).
 
